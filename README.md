@@ -2,7 +2,7 @@
 # Description    
     This project involves building the back end of an e-commerce site using Express.js and Sequelize to interact with a PostgreSQL database. This back end serves as the foundation for an internet retail platform, allowing businesses and consumers to engage in the online buying and selling of electronic products.
 
-    The main objective is to configure a working Express.js API to manage an e-commerce database that includes categories, products, tags, and product-tag associations.I had issues with the connection part, when I do the GET routs it doesnt show the products added on the seeds, I tried fixing in various different ways but I was not able to do it. 
+    The main objective is to configure a working Express.js API to manage an e-commerce database that includes categories, products, tags, and product-tag associations. 
 
     
 
@@ -41,4 +41,4 @@ This project is licensed under the MIT License.
 
 ## Video of the project
 
-[text](Module-13-Challenge.webm)
+[text](<Module 13 Challenge.webm>)
